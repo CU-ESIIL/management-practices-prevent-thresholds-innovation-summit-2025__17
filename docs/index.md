@@ -11,7 +11,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **One sentence on impact:** In three days we are prototyping a decision-support toolkit that helps land stewards spot when management practices are failing to prevent ecological thresholds.
 
-**[Sprint brief](updates.md) · [View shared code](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/tree/main/code) · [Data & access](data.md)**
+**[Sprint brief](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [View shared code](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/single_hull_demo.py) · [Explore data](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** This public log captures our rapid work at the Innovation Summit. Update it directly in your browser (open a file → pencil icon → Commit changes) so teammates and partners can follow along.
 
@@ -144,13 +144,13 @@ Keeping working lands intact depends on catching tipping points early. Reliable,
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="updates.md"><img src="assets/button_brief.gif" alt="Read sprint updates" width="240"><br><strong>Read the updates</strong></a>
+  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Read the sprint brief" width="240"><br><strong>Read the brief</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/prism_quicklook.py"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
+  <a href="https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/single_hull_demo.py"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_data.gif" alt="Explore data workflow" width="240"><br><strong>Explore notebooks</strong></a>
+  <a href="https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore data workflow" width="240"><br><strong>Explore data</strong></a>
 </td>
 </tr>
 </table>
