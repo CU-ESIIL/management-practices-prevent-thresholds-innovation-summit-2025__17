@@ -3,7 +3,7 @@
 Quick links the team uses while building the threshold prevention dashboard.
 
 ## Data & storage
-- **CyVerse community folder:** [`Group_17`](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_17) — upload shared datasets, figures, and deliverables.
+- **CyVerse community folder:** [`Group_17`](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_17?type=folder&resourceId=25105262-95a2-11f0-b0fb-90e2ba675364) — upload shared datasets, figures, and deliverables.
 - **Earth Engine asset folder:** `users/group17/thresholds_dashboard` — staging area for Landsat and NDVI composites.
 
 ## Collaboration spaces
