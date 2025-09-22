@@ -1,9 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Management Practices Prevent Thresholds — Innovation Summit 2025 (Group 17)"
+abstract: "Materials and code from the ESIIL Innovation Summit team exploring management strategies that prevent ecosystems from crossing critical thresholds."
+version: "0.1.0"
+date-released: 2025-02-10
+repository-code: "https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17"
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - family-names: Martinez
+    given-names: Sofia
+    affiliation: University of Colorado Boulder
+  - family-names: Li
+    given-names: Marcus
+    affiliation: Colorado State University
+  - family-names: Yazzie
+    given-names: Talia
+    affiliation: Navajo Technical University
+  - family-names: Patel
+    given-names: Arjun
+    affiliation: Western Water Conservancy
