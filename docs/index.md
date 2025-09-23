@@ -1,4 +1,4 @@
-# Management Practices Prevent Thresholds
+# Management Practices Prevent Compound Disturbance
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
@@ -9,7 +9,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ![Aerial view of irrigated rangelands and riparian buffers](assets/hero.jpg)
 [Raw photo location: hero.jpg](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/hero.jpg)
 
-**One sentence on impact:** In three days we are prototyping a decision-support toolkit that helps land stewards spot when management practices are failing to prevent ecological thresholds.
+**One sentence on impact:** We are going to use an LLM to identify the management actions that primarily take place following disturbances that facilitate fire, such as wind, drought, insect/path, and fire.
 
 **[Sprint brief](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [View shared code](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/single_hull_demo.py) · [Explore data](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/prism_quicklook.py)**
 
@@ -25,15 +25,14 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Day 1 — Define & Explore
-*Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
+*Focus: Exploring management actions around linked disturbances
 
 ### Our product 📣
-- Outline a “threshold prevention dashboard” that surfaces leading indicators and recommended management responses for watershed coalitions.
+- A synthesis of management actions that occur after wind, fire, insect/path, and drought management actions in order to prevent future wildfires. 
 
 ### Our question(s) 📣
-- How can we combine remote sensing and management logs to flag when conservation practices are losing effectiveness?
-- What indicators give managers enough lead time to intervene before rangelands cross a productivity threshold?
-- How do we communicate uncertainty so partners trust and act on the dashboard signals?
+- What management actions take place after drought, windstorm, fire, and insect/path to prevent future wildfires?
+-Ie. how are managers breaking disturbance links in order to prevent future catastrophic disturbances and tipping points?
 
 ### Hypotheses / intentions 📣
 - We think that blending soil moisture anomalies with grazing rotation adherence will reveal early warning signs.
