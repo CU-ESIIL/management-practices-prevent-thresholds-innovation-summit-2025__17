@@ -28,16 +28,14 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 *Focus: Exploring management actions around linked disturbances
 
 ### Our product 📣
-- A synthesis of management actions that occur after wind, fire, insect/path, and drought management actions in order to prevent future wildfires. 
+- A synthesis manuscript and high level dataset of forest management actions (maybe a map or something)
 
 ### Our question(s) 📣
 - What management actions take place after drought, windstorm, fire, and insect/path to prevent future wildfires?
--Ie. how are managers breaking disturbance links in order to prevent future catastrophic disturbances and tipping points?
+-Ie. how are managers purposefully or inadvertently breaking disturbance links in order to prevent future catastrophic disturbances and tipping points?
 
 ### Hypotheses / intentions 📣
-- We think that blending soil moisture anomalies with grazing rotation adherence will reveal early warning signs.
-- We intend to test whether simple change-point detection can trigger alerts before forage loss becomes irreversible.
-- We will know we’re onto something if land stewards can interpret the indicators and outline at least two preventive actions.
+-We expect to have a ton of fun and learn a lot :_
 
 ### Why this matters (the “upshot”) 📣
 Keeping working lands intact depends on catching tipping points early. Reliable, transparent indicators help conservation districts invest in the right practices before recovery becomes costly or impossible.
