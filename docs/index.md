@@ -1,17 +1,10 @@
 # Identifying linked disturbances and associated management intervenetions to prevent tipping points
 
-<p style="text-align: right;"><a href="https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
-
 <!-- =========================================================
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
 
-![Aerial view of irrigated rangelands and riparian buffers](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/hero.jpg)
-
 **One sentence on impact:** Using the ICS database we are identifying whether ecological disturbances have overlapped in the U.S. and if there are intervention straetegies that can mitigate the impacts of linked disturabnce.
-
-**[Sprint brief](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [View shared code](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/single_hull_demo.py) · [Explore data](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** This public log captures our rapid work at the Innovation Summit. Update it directly in your browser (open a file → pencil icon → Commit changes) so teammates and partners can follow along.
 
@@ -25,7 +18,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Day 1 — Define & Explore
-*Focus: Exploring where disturbance incident reports might overlap
+*Focus: Exploring where the relevance of linked disturbance
 
 ### Our product 📣
 - A synthesis manuscript and high level dataset of forest management actions (maybe a map or something)
@@ -38,13 +31,13 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 -We expect to have a ton of fun and learn a lot :_
 
 ### Why this matters (the “upshot”) 📣
-
+-Disturbances can facilitate others. If disturbances are becoming more common with climate change, we might be able to intervene once a disturbance occurs to prevent further loss of ecosystem and life.
 
 
 ### Inspirations (papers, datasets, tools)
-- Publication: [Detecting ecological thresholds in dryland ecosystems](https://doi.org/10.1111/gcb.16512)
-- Dataset portal: [USGS Landsat Collection 2 surface reflectance](https://www.usgs.gov/landsat-missions/landsat-collection-2)
-- Tool/tech: [PyBreakpoints — Bayesian change point detection](https://github.com/alan-turing-institute/pybreakpoints)
+- Publication: 
+- Dataset portal: St. Denis, L.A., Mietkiewicz, N.P., Short, K.C., Buckland, M. and Balch, J.K., 2020. All-hazards dataset mined from the US National Incident Management System 1999–2014. Scientific data, 7(1), p.64.
+- Tool/tech: 
 
 ### Field notes / visuals
 
@@ -55,27 +48,21 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Day 2 — Data & Methods
-*Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
+*Focus: Compiling incident reports within 20 km area to identify potential linked and compound effects
 
 ### Data sources we’re exploring 📣
 <!-- EDIT: Link each source; add size/notes if relevant. -->
 - **Source A**
-- **Soil moisture anomalies** from [GridMET](https://www.climatologylab.org/gridmet.html) regridded to allotment boundaries.
+- https://figshare.com/articles/dataset/All-hazards_dataset_mined_from_the_US_National_Incident_Management_System_1999-2020/19858927/3
 
   ![Pattern revealed during exploration](assets/explore_data_plot.png)
-[Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/explore_data_plot.png)
-  *Snapshot: Standardized anomaly series highlights persistent drying in 2022–2023.*
 
-- **Practice implementation log** compiled by Western Water Conservancy (rotational grazing, riparian buffers, rest periods).
-- **Vegetation vigor** (NDVI) from Landsat 8/9 30 m composites created with Google Earth Engine.
-  *Snapshot showing initial data patterns.*
 
 - Source B — link and 1-line description
 
 ### Methods / technologies we’re testing 📣
-- Approach 1 (e.g., time-series break detection)
-- Approach 2 (e.g., random forest on features)
-- Visualization (e.g., map tiles, small multiples)
+- Compiling data via R
+- Mapping overlapping incidents throughout the US
 
 ### Challenges identified
 - Data gaps / quality issues
