@@ -55,9 +55,6 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 - **Source A**
 - https://figshare.com/articles/dataset/All-hazards_dataset_mined_from_the_US_National_Incident_Management_System_1999-2020/19858927/3
 
-  ![Pattern revealed during exploration](assets/explore_data_plot.png)
-
-
 - Source B — link and 1-line description
 
 ### Methods / technologies we’re testing 📣
@@ -71,13 +68,6 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Visuals
 #### Static figure
-
-
-
-#### Animated change (GIF)
-![Seasonal/temporal change animation](assets/change.gif)
-[Raw photo location: change.gif](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/change.gif)
-*Figure 2.* One line on what changes across time.
 
 #### Interactive map (iframe)
 <iframe
