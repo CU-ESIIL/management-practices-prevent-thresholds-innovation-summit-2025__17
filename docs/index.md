@@ -58,6 +58,8 @@ Keeping working lands intact depends on catching tipping points early. Reliable,
 *Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
 
 ### Data sources we’re exploring 📣
+<!-- EDIT: Link each source; add size/notes if relevant. -->
+- **Source A**
 - **Soil moisture anomalies** from [GridMET](https://www.climatologylab.org/gridmet.html) regridded to allotment boundaries.
 
   ![Pattern revealed during exploration](assets/explore_data_plot.png)
@@ -66,27 +68,30 @@ Keeping working lands intact depends on catching tipping points early. Reliable,
 
 - **Practice implementation log** compiled by Western Water Conservancy (rotational grazing, riparian buffers, rest periods).
 - **Vegetation vigor** (NDVI) from Landsat 8/9 30 m composites created with Google Earth Engine.
+  *Snapshot showing initial data patterns.*
+
+- Source B — link and 1-line description
 
 ### Methods / technologies we’re testing 📣
-- Rolling Kendall trend test to flag monotonic declines in vegetation vigor.
-- Bayesian change point detection on moisture anomalies to identify abrupt state shifts.
-- Simple rules engine that pairs detections with recommended management actions from partner playbooks.
+- Approach 1 (e.g., time-series break detection)
+- Approach 2 (e.g., random forest on features)
+- Visualization (e.g., map tiles, small multiples)
 
 ### Challenges identified
-- Management logs mix qualitative notes with numeric entries; we need lightweight coding for summit pace.
-- Cloud cover limits Landsat availability during the growing season—evaluating Sentinel-2 fallback.
-- Alert thresholds must balance early warnings with false positives to maintain partner trust.
+- Data gaps / quality issues
+- Method limitations / compute constraints
+- Open questions we need to decide on
 
 ### Visuals
 #### Static figure
 ![Early pattern we’re seeing](assets/figure1.png)
 [Raw photo location: figure1.png](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/figure1.png)
-*Figure 1.* Change-point detection flagging a 2021 soil moisture shift aligned with drought declarations.
+*Figure 1.* One line on what this suggests.
 
 #### Animated change (GIF)
 ![Seasonal/temporal change animation](assets/change.gif)
 [Raw photo location: change.gif](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/change.gif)
-*Figure 2.* NDVI animation showing patchy recovery following targeted rest rotations.
+*Figure 2.* One line on what changes across time.
 
 #### Interactive map (iframe)
 <iframe
@@ -106,22 +111,24 @@ Keeping working lands intact depends on catching tipping points early. Reliable,
 [Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-- Soil moisture breakpoints matched partner-observed forage crashes within ±2 weeks in three test allotments.
-- Dashboards combining NDVI trends and practice adherence reduced false alarms by 30% compared with NDVI alone.
-- Managers want alert text that pairs each trigger with “next steps” and a confidence score.
+<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
+- Headline 1 — what, where, how much
+- Headline 2 — change/trend/contrast
+- Headline 3 — implication for practice or policy
 
 ### Visuals that tell the story 📣
+<!-- EDIT: Swap visuals; prioritize clarity. -->
 ![Lead conclusion visual placeholder](assets/fire_hull.png)
 [Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Prototype dashboard panel showing combined moisture/NDVI alerts and suggested management actions.
+*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
 
 ![Supporting panels for key insights](assets/hull_panels.png)
 [Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Comparative view of allotments with and without timely rest rotations, highlighting vegetation recovery potential.
+*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
 
 ![Complementary result figure placeholder](assets/main_result.png)
 [Raw photo location: main_result.png](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/main_result.png)
-*Visual 3.* Time-to-threshold simulation illustrating how proactive management extends resilient conditions by ~18 months.
+*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
 
 <iframe
   title="Short explainer video (optional)"
@@ -131,9 +138,9 @@ Keeping working lands intact depends on catching tipping points early. Reliable,
   allowfullscreen></iframe>
 
 ### What’s next? 📣
-- Integrate partner-collected socio-economic indicators to broaden dashboard scope.
-- Package code into reproducible notebooks with parameter toggles for different districts.
-- Share prototype with Colorado Coalition of Conservation Districts for external feedback.
+- Immediate follow-ups
+- What we would do with one more week/month
+- Who should see this next
 
 ---
 
