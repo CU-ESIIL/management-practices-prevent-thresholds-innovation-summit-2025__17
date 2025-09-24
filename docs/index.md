@@ -1,4 +1,4 @@
-# Management Practices Prevent Compound Disturbance
+# Identifying linked disturbances and associated management intervenetions to prevent tipping points
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
@@ -9,7 +9,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ![Aerial view of irrigated rangelands and riparian buffers](assets/hero.jpg)
 [Raw photo location: hero.jpg](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/hero.jpg)
 
-**One sentence on impact:** We are going to use an LLM to identify the management actions that primarily take place following disturbances that facilitate fire, such as wind, drought, insect/path, and fire.
+**One sentence on impact:** Using the ICS database we are identifying whether ecological disturbances have overlapped in the U.S. and if there are intervention straetegies that can mitigate the impacts of linked disturabnce.
 
 **[Sprint brief](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [View shared code](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/single_hull_demo.py) · [Explore data](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/code/prism_quicklook.py)**
 
@@ -25,7 +25,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Day 1 — Define & Explore
-*Focus: Exploring management actions around linked disturbances
+*Focus: Exploring where disturbance incident reports might overlap
 
 ### Our product 📣
 - A synthesis manuscript and high level dataset of forest management actions (maybe a map or something)
@@ -38,7 +38,8 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 -We expect to have a ton of fun and learn a lot :_
 
 ### Why this matters (the “upshot”) 📣
-Keeping working lands intact depends on catching tipping points early. Reliable, transparent indicators help conservation districts invest in the right practices before recovery becomes costly or impossible.
+
+
 
 ### Inspirations (papers, datasets, tools)
 - Publication: [Detecting ecological thresholds in dryland ecosystems](https://doi.org/10.1111/gcb.16512)
@@ -46,9 +47,8 @@ Keeping working lands intact depends on catching tipping points early. Reliable,
 - Tool/tech: [PyBreakpoints — Bayesian change point detection](https://github.com/alan-turing-institute/pybreakpoints)
 
 ### Field notes / visuals
-![Whiteboard brainstorm summarizing threshold indicators](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/day1_whiteboard.jpg)
-*Caption: Scoping session mapping management levers (grazing, irrigation, restoration) to measurable early warning signals.*
+
+
 
 > **Different perspectives:** Ranching partners emphasized socio-economic thresholds (labor, funding) alongside ecological ones; we parked those for future integration.
 
@@ -84,9 +84,8 @@ Keeping working lands intact depends on catching tipping points early. Reliable,
 
 ### Visuals
 #### Static figure
-![Early pattern we’re seeing](assets/figure1.png)
-[Raw photo location: figure1.png](https://github.com/CU-ESIIL/management-practices-prevent-thresholds-innovation-summit-2025__17/blob/main/docs/assets/figure1.png)
-*Figure 1.* One line on what this suggests.
+
+
 
 #### Animated change (GIF)
 ![Seasonal/temporal change animation](assets/change.gif)
