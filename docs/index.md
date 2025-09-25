@@ -1,14 +1,14 @@
-# Identifying linked disturbances and associated management intervenetions to prevent tipping points
+# Identifying linked disturbances and associated management interventions to prevent tipping points
 
 <!-- =========================================================
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
 
-**Importance:** Using the ICS database we are identifying whether ecological disturbances have overlapped in the U.S. and if there are intervention straetegies that can mitigate the impacts of linked disturabnce.
-
-> **About this site:** This public log captures our rapid work at the Innovation Summit. Update it directly in your browser (open a file → pencil icon → Commit changes) so teammates and partners can follow along.
+**Importance:** Using the ICS database we are identifying whether ecological disturbances have overlapped in the U.S. and if there are intervention strategies that can mitigate the impacts of linked disturbances.
 
 <!-- 
+
+> **About this site:** This public log captures our rapid work at the Innovation Summit. Update it directly in your browser (open a file → pencil icon → Commit changes) so teammates and partners can follow along.
 
 ## How to use this page (for the team)
 - **Edit this file:** `docs/index.md` → ✎ → change text → **Commit changes**.
@@ -18,21 +18,21 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 -->
 
 ## Day 1 — Define & Explore
-**Focus:** Exploring where the relevance of linked disturbance
+**Focus:** Exploring the relevance of linked disturbances in tipping points
 
 ### Our product 📣
-- A synthesis manuscript and high level dataset of forest management actions (maybe a map or something)
+- A synthesis manuscript and high level dataset of forest management actions
 
 ### Our question(s) 📣
-- What management actions take place after drought, windstorm, fire, and insect/path to prevent future wildfires?
+- What management actions take place after drought, windstorm, wildfire, and insect/pathogen disturbances to prevent future catastrophic wildfires?
   - ie. how are managers purposefully or inadvertently breaking disturbance links in order to prevent future catastrophic disturbances and tipping points?
 
 ### Hypotheses / intentions 📣
 - Forest management interventions implemented within 1-3 years following drought, windstorm, or insect/pathogen disturbances significantly reduce the probability of subsequent catastrophic wildfire events, effectively breaking disturbance-linkage cascades that could lead to ecosystem tipping points.
-- Proactive management following non-fire disturbances reduces total fire suppression costs compared to reactive fire management strategies.
+- Proactive management following non-fire disturbances reduces total fire management costs compared to reactive fire management strategies.
 
 ### Why this matters (the “upshot”) 📣
-- Disturbances can facilitate others. If disturbances are becoming more common with climate change, we might be able to intervene once a disturbance occurs to prevent further loss of ecosystem and life.
+- Disturbances can facilitate others. As disturbances are becoming more common with climate change, we might be able to intervene once a disturbance occurs to prevent further loss of ecosystem and life.
 
 ### Inspirations (papers, datasets, tools)
 **Publication:**
@@ -48,9 +48,9 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 1. [US_National_Incident_Management_System](https://figshare.com/articles/dataset/All-hazards_dataset_mined_from_the_US_National_Incident_Management_System_1999-2020/19858927/3)
     - Fire incident data
 1. [USFS Aerial Detection Survey](https://www.fs.usda.gov/science-technology/data-tools-products/fhp-mapping-reporting/detection-surveys)
-    - Aerial survey of the health of treed areas affected by insects and diseases
+    - Aerial survey of the health of forested areas affected by insects and diseases
 1. [ECMWF Reanalysis v5 (ERA5)](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5)
-    - Percipitation (for drought calculation)
+    - Precipitation (for drought modeling)
 1. [Blowdown data of wind events](https://landfire.gov/disturbance/annualdisturbance)
 
 ### Methods / technologies we’re testing 📣
