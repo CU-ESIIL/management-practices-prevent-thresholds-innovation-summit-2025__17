@@ -77,8 +77,14 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ### Visuals
 #### Map of overlapping incidents
 
-![]()
-*Visual 1.* .
+![](assets/map_incidents.png)
+*Figure 1.* Total Incidents by Hex Cell (1999-2020).
+
+![](assets/map_incident_diversity.png)
+*Figure 2.* Incident Type Diversity by Hex Cell (1999-2020).
+
+![](assets/graph_incident_time_gaps.png)
+*Figure 3.* Average Time Between Incident Types.
 
 <!-- EDIT: Swap visuals; prioritize clarity.
 
