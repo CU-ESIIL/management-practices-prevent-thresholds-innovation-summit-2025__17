@@ -32,7 +32,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 - Proactive management following non-fire disturbances reduces total fire suppression costs compared to reactive fire management strategies.
 
 ### Why this matters (the “upshot”) 📣
--Disturbances can facilitate others. If disturbances are becoming more common with climate change, we might be able to intervene once a disturbance occurs to prevent further loss of ecosystem and life.
+- Disturbances can facilitate others. If disturbances are becoming more common with climate change, we might be able to intervene once a disturbance occurs to prevent further loss of ecosystem and life.
 
 ### Inspirations (papers, datasets, tools)
 **Publication:**
