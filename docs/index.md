@@ -18,7 +18,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 -->
 
 ## Day 1 — Define & Explore
-*Focus: Exploring where the relevance of linked disturbance
+**Focus:** Exploring where the relevance of linked disturbance
 
 ### Our product 📣
 - A synthesis manuscript and high level dataset of forest management actions (maybe a map or something)
@@ -76,7 +76,15 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Visuals
 #### Map of overlapping incidents
+
+![]()
+*Visual 1.* .
+
 <!-- EDIT: Swap visuals; prioritize clarity.
+
+Incidents 
+Diversity
+Transitions
 
 ![]()
 *Visual 1.* .
