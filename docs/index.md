@@ -28,7 +28,8 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
   - ie. how are managers purposefully or inadvertently breaking disturbance links in order to prevent future catastrophic disturbances and tipping points?
 
 ### Hypotheses / intentions 📣
--We expect to have a ton of fun and learn a lot :_
+- Forest management interventions implemented within 1-3 years following drought, windstorm, or insect/pathogen disturbances significantly reduce the probability of subsequent catastrophic wildfire events, effectively breaking disturbance-linkage cascades that could lead to ecosystem tipping points.
+- Proactive management following non-fire disturbances reduces total fire suppression costs compared to reactive fire management strategies.
 
 ### Why this matters (the “upshot”) 📣
 -Disturbances can facilitate others. If disturbances are becoming more common with climate change, we might be able to intervene once a disturbance occurs to prevent further loss of ecosystem and life.
