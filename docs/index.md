@@ -4,18 +4,18 @@
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
 
-**One sentence on impact:** Using the ICS database we are identifying whether ecological disturbances have overlapped in the U.S. and if there are intervention straetegies that can mitigate the impacts of linked disturabnce.
+**Importance:** Using the ICS database we are identifying whether ecological disturbances have overlapped in the U.S. and if there are intervention straetegies that can mitigate the impacts of linked disturabnce.
 
 > **About this site:** This public log captures our rapid work at the Innovation Summit. Update it directly in your browser (open a file → pencil icon → Commit changes) so teammates and partners can follow along.
 
----
+<!-- 
 
 ## How to use this page (for the team)
 - **Edit this file:** `docs/index.md` → ✎ → change text → **Commit changes**.
 - **Add images:** upload to `docs/assets/` and reference like `assets/your_file.png`.
 - Keep **text short** and **visuals first**. Think “slide captions,” not essays.
 
----
+-->
 
 ## Day 1 — Define & Explore
 *Focus: Exploring where the relevance of linked disturbance
@@ -25,7 +25,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Our question(s) 📣
 - What management actions take place after drought, windstorm, fire, and insect/path to prevent future wildfires?
--Ie. how are managers purposefully or inadvertently breaking disturbance links in order to prevent future catastrophic disturbances and tipping points?
+  - ie. how are managers purposefully or inadvertently breaking disturbance links in order to prevent future catastrophic disturbances and tipping points?
 
 ### Hypotheses / intentions 📣
 -We expect to have a ton of fun and learn a lot :_
@@ -33,15 +33,9 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ### Why this matters (the “upshot”) 📣
 -Disturbances can facilitate others. If disturbances are becoming more common with climate change, we might be able to intervene once a disturbance occurs to prevent further loss of ecosystem and life.
 
-
 ### Inspirations (papers, datasets, tools)
-- Publication: 
+**Publication:**
 - Dataset portal: St. Denis, L.A., Mietkiewicz, N.P., Short, K.C., Buckland, M. and Balch, J.K., 2020. All-hazards dataset mined from the US National Incident Management System 1999–2014. Scientific data, 7(1), p.64.
-- Tool/tech: 
-
-### Field notes / visuals
-
-> **Different perspectives:** TODO
 
 ---
 
@@ -67,9 +61,6 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 - Method limitations / compute constraints
 - Open questions we need to decide on
 
-### Visuals
-#### Static figure
-
 ---
 
 ## Final Share Out — Insights & Sharing
@@ -82,7 +73,8 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 - What types of actions may be effective in breaking the link between disturbances?
 - Can preemptive action reduce the costs of fire resources in the context of multiple disturbances?
 
-### Visuals that tell the story 📣
+### Visuals
+#### Map of overlapping incidents
 <!-- EDIT: Swap visuals; prioritize clarity.
 
 ![]()
